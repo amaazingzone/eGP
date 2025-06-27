@@ -1,4 +1,4 @@
-<script>
+
 document.write("HELLOOOOO");
 
 document.getElementById("floatingBtn").onclick = function() {
@@ -6,4 +6,3 @@ document.getElementById("floatingBtn").onclick = function() {
     
 
 
-    </script>
